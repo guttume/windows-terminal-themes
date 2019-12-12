@@ -1,0 +1,21 @@
+{
+      "background": "#2D3748",
+      "black": "#2D3748",
+      "blue": "#3182CE",
+      "brightBlack": "#718096",
+      "brightBlue": "#63B3ED",
+      "brightCyan": "#4FD1C5",
+      "brightGreen": "#68D391",
+      "brightPurple": "#B794F4",
+      "brightRed": "#FC8181",
+      "brightWhite": "#FFFFFF",
+      "brightYellow": "#F6E05E",
+      "cyan": "#38B2AC",
+      "foreground": "#E2E8F0",
+      "green": "#38A169",
+      "name": "Tailwind",
+      "purple": "#805AD5",
+      "red": "#F56565",
+      "white": "#E2E8F0",
+      "yellow": "#D69E2E"
+    }
