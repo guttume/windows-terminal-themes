@@ -1,0 +1,21 @@
+{
+      "background": "#2d2d2d",
+      "black": "#2d2d2d",
+      "blue": "#6AB0F3",
+      "brightBlack": "#777c85",
+      "brightBlue": "#6AB0F3",
+      "brightCyan": "#76d4d6",
+      "brightGreen": "#76d4d6",
+      "brightPurple": "#e1a6f2",
+      "brightRed": "#f2777a",
+      "brightWhite": "#ffffff",
+      "brightYellow": "#ffeea6",
+      "cyan": "#76d4d6",
+      "foreground": "#b3b9c5",
+      "green": "#92d192",
+      "name": "New Moon",
+      "purple": "#e1a6f2",
+      "red": "#f2777a",
+      "white": "#b3b9c5",
+      "yellow": "#ffd479"
+    }
