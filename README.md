@@ -1,4 +1,4 @@
-# windows-terminal-themes
+# Themes for new Windows Terminal
 Different colorful themes for new windows terminal
 
 My personal collection of different themes for new windows terminal. Some of them are ported from existing themes and some are original.
